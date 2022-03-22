@@ -1,0 +1,63 @@
+/* 'Inter' */
+@font-face {
+    font-family: "Inter";
+    src: url(../fonts/Inter/static/Inter-ExtraBold.ttf);
+    font-weight: 800;
+}
+@font-face {
+    font-family: "Inter";
+    src: url(../fonts/Inter/static/Inter-Bold.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Inter";
+    src: url(../fonts/Inter/static/Inter-SemiBold.ttf);
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Inter";
+    src: url(../fonts/Inter/static/Inter-Medium.ttf);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "Inter";
+    src: url(../fonts/Inter/static/Inter-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Inter";
+    src: url(../fonts/Inter/static/Inter-Light.ttf);
+    font-weight: 300;
+}
+
+/* Nunito */
+
+@font-face {
+    font-family: "Inter";
+    src: url(../fonts/Nunito/static/Nunito-Bold.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Inter";
+    src: url(../fonts/Nunito/static/Nunito-SemiBold.ttf);
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Inter";
+    src: url(../fonts/Nunito/static/Nunito-Medium.ttf);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "Inter";
+    src: url(../fonts/Nunito/static/Nunito-Regular.ttf);
+    font-weight: 400;
+} 
+/* 'Montserrat' */
+@font-face {
+    font-family: "Montserrat";
+    src: url(../fonts/Montserrat/static/Montserrat-Bold.ttf);
+    font-weight: 700;
+}   
