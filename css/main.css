@@ -135,7 +135,7 @@ body{
     margin-bottom: 0;
 }
 .header__title span{
-    color: #E98F8E;
+    color: #01FB00;
     
 }
 .header__text{
@@ -148,7 +148,7 @@ body{
     margin-bottom: 0;
 }
 .header__text-item{
-    color: #E98F8E;
+    color: #01FB00;
     text-transform: uppercase;
     font-weight: 700;
 }
