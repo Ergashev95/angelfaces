@@ -709,7 +709,7 @@ body{
     transform: translate(-50%, -50%);
 }
 .audio__course-box p{
-    font: 400 18px 'Inter';
+    font: 400 22px 'Inter';
     line-height: 32px;
     color: #000;
     opacity: 0.8;
@@ -851,6 +851,13 @@ body{
 }
 .footer__link-icon{
     color: #020105;
+}
+.author{
+    font-size: 20px;
+    color: #000;
+}
+.author b{
+    font-weight: 900;
 }
 
 /* footer end */
