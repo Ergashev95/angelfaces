@@ -85,6 +85,10 @@ body{
     align-self: center;
     background-color: transparent;
 }
+.nav__info-languange .dropdown-menu{
+    min-width: 100% !important;
+}
+
 .nav__info__languange-item{
     font-size: 16px;
     font-weight: 400;
@@ -724,6 +728,7 @@ body{
     background: linear-gradient(0deg, #E0EBFF, #E0EBFF), #FFFFFF;
     border-radius: 20px;
     padding: 32px;
+    height: 100%;
 }
 .contacts__box1 h2{
     font: 700 40px 'Nunito';
