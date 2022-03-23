@@ -549,8 +549,8 @@ body{
 .about__books-card h2{
     max-width: 379px;
     width: 100%;
-    font: 700 40px 'Inter';
-    line-height: 56px;
+    font: 700 36px 'Inter';
+    line-height: 40px;
     margin: 66px 0 10px;
     text-transform: uppercase;
     background: linear-gradient(90deg, #544695 -12.65%, #754088 115.33%), #000000;
@@ -854,10 +854,12 @@ body{
 }
 .author{
     font-size: 20px;
-    color: #000;
+   color: #000;
+    margin-top: 10px;
 }
 .author b{
     font-weight: 900;
+    color: #FB4C62;
 }
 
 /* footer end */
